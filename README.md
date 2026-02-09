@@ -25,26 +25,26 @@
 
 ** 🏆 Seminars/ Webinars Certificates Gallery ** 
 <p align="center">
-  <a href="certificates/cert1.jpg"><img src="certificates/cert1.jpg" width="300"/></a>
-  <a href="certificates/cert2.jpg"><img src="certificates/cert2.jpg" width="300"/></a>
-  <a href="certificates/cert3.jpg"><img src="certificates/cert3.jpg" width="300"/></a>
+  <a href="certificates/cert1.jpg"><img src="certificates/cert1.jpg" width="200"/></a>
+  <a href="certificates/cert2.jpg"><img src="certificates/cert2.jpg" width="200"/></a>
+  <a href="certificates/cert3.jpg"><img src="certificates/cert3.jpg" width="200"/></a>
 </p>
 
 <p align="center">
-  <a href="certificates/cert4.jpg"><img src="certificates/cert4.jpg" width="300"/></a>
-  <a href="certificates/cert5.jpg"><img src="certificates/cert5.jpg" width="300"/></a>
-  <a href="certificates/cert6.jpg"><img src="certificates/cert6.jpg" width="300"/></a>
+  <a href="certificates/cert4.jpg"><img src="certificates/cert4.jpg" width="200"/></a>
+  <a href="certificates/cert5.jpg"><img src="certificates/cert5.jpg" width="200"/></a>
+  <a href="certificates/cert6.jpg"><img src="certificates/cert6.jpg" width="200"/></a>
 </p>
 
 <p align="center">
-  <a href="certificates/cert7.jpg"><img src="certificates/cert7.jpg" width="300"/></a>
-  <a href="certificates/cert8.jpg"><img src="certificates/cert8.jpg" width="300"/></a>
-  <a href="certificates/cert9.jpg"><img src="certificates/cert9.jpg" width="300"/></a>
+  <a href="certificates/cert7.jpg"><img src="certificates/cert7.jpg" width="200"/></a>
+  <a href="certificates/cert8.jpg"><img src="certificates/cert8.jpg" width="200"/></a>
+  <a href="certificates/cert9.jpg"><img src="certificates/cert9.jpg" width="200"/></a>
 </p>
 
 <p align="center">
-  <a href="certificates/cert10.jpg"><img src="certificates/cert10.jpg" width="300"/></a>
-  <a href="certificates/cert11.jpg"><img src="certificates/cert11.jpg" width="300"/></a>
+  <a href="certificates/cert10.jpg"><img src="certificates/cert10.jpg" width="200"/></a>
+  <a href="certificates/cert11.jpg"><img src="certificates/cert11.jpg" width="200"/></a>
 </p>
 
 **📄 Resume and Application Letter**
