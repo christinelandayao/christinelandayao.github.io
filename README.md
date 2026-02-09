@@ -19,9 +19,11 @@
 
 
 👩‍💻 About Me
+
     I am a 4th year college student taking  Bachelor of Science in Computer Engineering at Western Institute of Technology.
 
     Beyond academics, I enjoy dancing 💃 and cooking 🍳, which help me stay creative and inspired.
+
 
 🏆 Seminars/ Webinars Certificates Gallery
 <p align="center">
