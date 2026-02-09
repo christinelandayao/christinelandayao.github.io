@@ -47,7 +47,15 @@
   <a href="certificates/cert11.jpg"><img src="certificates/cert11.jpg" width="200"/></a>
 </p>
 
-📄 Resume and Application Letter
+
+
+## 📄 Resume and Application Letter
+
+| Document | View | Download |
+
+| Resume | [View Resume](resume.pdf) | <a href="resume.pdf" download>Download Resume</a> |
+| Application Letter | [View Application Letter](application-letter.pdf) | <a href="application-letter.pdf" download>Download Letter</a> |
+
 
 - 📄 [Download Resume](resume.pdf)  
 - 📄 [Download Application Letter](application-letter.pdf)
